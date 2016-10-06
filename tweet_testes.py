@@ -9,7 +9,7 @@ import config as CFG
 
 
 #Conta do twitter da operadora de internet
-CTID=("@vivoemrede" , "@claroBrasil" , "@NEToficial" , "@TIMBrasil", "@SKYresponde", "@digaoi","@letonai")
+CTID=("@vivoemrede" , "@claroBrasil" , "@NEToficial" , "@TIMBrasil", "@SKYresponde", "@digaoi")
 
 def test():
         print 'Iniciando testes...'
