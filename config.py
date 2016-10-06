@@ -6,7 +6,7 @@
 # 4 = @SKYresponde
 # 5 = @digaoi
 
-CARRIER=6
+CARRIER=0
 
 #Hashtags que deseja inserir no final do tweet
 HASHTAG="#speedtest"
