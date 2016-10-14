@@ -30,7 +30,7 @@ def test():
         print date,p, d, u
         #Salva o ultimo resultado
 	if CFG.KEEPDATA:
-	       out_file = open('/opt/scripts/data.csv', 'a')
+	       out_file = open('./data.csv', 'a')
 	       writer = csv.writer(out_file)
 	       writer.writerow((ts*1000,p,d,u))
 	       out_file.close()
